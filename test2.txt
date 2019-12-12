@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 04A0-741B
+
+ Directory of C:\Users\User\Desktop\Project\My project\Git Project
+
+12/12/2019  12:12 PM    <DIR>          .
+12/12/2019  12:12 PM    <DIR>          ..
+12/06/2019  12:20 PM                 0 readme.txt
+12/11/2019  02:14 PM                20 test.txt
+12/12/2019  12:12 PM                 0 test2.txt
+               3 File(s)             20 bytes
+               2 Dir(s)  16,962,428,928 bytes free
